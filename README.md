@@ -4,7 +4,7 @@ Obrigada por conferir meu resultado do desafio Clipboard landing page do Fronten
 
 Essa é uma solução do para o [desafio do FAQ Accordion](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
 
-URL do site ativo: [FAQ Accordion](https://tatyane-goncalves.github.io/16-FAQ-Accordion/)
+URL do site ativo: [FAQ Accordion](https://tatyane-goncalves.github.io/Proj.16-FAQ-Accordion/)
 
 ### Autor
 - Mentor de Frontend - [@Tatyane-Goncalves](https://www.frontendmentor.io/profile/Tatyane-Goncalves)
