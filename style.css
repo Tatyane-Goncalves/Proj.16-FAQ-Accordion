@@ -17,7 +17,7 @@
 body{
     font-family: 'Work Sans', sans-serif;
     background-color: var(--Lightpink);
-    background-image: url('/images/background-pattern-desktop.svg');
+    background-image: url('images/background-pattern-desktop.svg');
     background-repeat: no-repeat;
     background-size: 100%;
     min-height: 100vh;
@@ -94,16 +94,21 @@ button:hover{
 }
 
 .attribution{
-    text-align: center;
+    text-align: center;   
+}
+
+.attribution a{
+    color: rgb(175, 6, 175);
 }
 
 .attribution a:hover{
+    
     font-weight: 600;
 }
 
 @media (max-width: 700px) {
     body {
-        background-image: url('/images/background-pattern-mobile.svg');
+        background-image: url('images/background-pattern-mobile.svg');
     }
 
     .faq-headline{
